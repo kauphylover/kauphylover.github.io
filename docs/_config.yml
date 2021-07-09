@@ -23,8 +23,8 @@ email: abhirama@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   this tlog is meant to be a record of my experiences with tech tools and my notes on
   various things I learn on and off the job
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://kauphylover.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: abhirama
 github_username:  kauphylover
 
