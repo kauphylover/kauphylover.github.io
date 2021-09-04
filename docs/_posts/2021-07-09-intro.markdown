@@ -4,9 +4,9 @@ title:  "Here we go!"
 date:   2021-07-09 17:50:54 +0530
 categories: intro
 ---
-Starting this weekend, I've decided to dedicate some time to play with stuff that I don't get to during the weekdays.
+Starting this weekend, I've decided to dedicate some time to play with stuff that I don't get to during weekdays.
 
-I've been meaning to learn [Kotlin][kotlin] for a looong time now and although I made a few half starts, I just abandoned due to various reasons. But this I intend to go through with it. I've also wanted to learn basics of [gRPC][grpc] for a while now. So what I've decided to do is to write a simple gRPC server in Kotlin and make a call to the gRPC server from a simple Kotlin gRPC client.
+I've been meaning to learn [Kotlin][kotlin] for a very long time now and although I made a few half-starts, I never made any real progress. But this time I intend to go through with it. I've also wanted to learn basics of [gRPC][grpc] for a while now. So what I've decided to do is to write a simple gRPC server in Kotlin and make a call to the gRPC server from a simple Kotlin gRPC client.
 
 And, to kick things off, I'm having to learn some `Markdown`, [Jekyll][jekyll-gh] and how this works with github-pages!
 
