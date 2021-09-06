@@ -12,6 +12,10 @@ And, to kick things off, I'm having to learn some `Markdown`, [Jekyll][jekyll-gh
 
 I'll post the end result by the end of the weekend. 
 
-[kotlin]:     https://kotlinlang.org
-[grpc]:       https://grpc.io/
-[jekyll-gh]:  https://github.com/jekyll/jekyll
+EDIT (6th Sept 2021): So, after being away from work for about a couple of months, I finally found some time to wrap this up. The end-result is [here][grpc-kotlin-helloworld].
+
+
+[kotlin]:                 https://kotlinlang.org
+[grpc]:                   https://grpc.io/
+[jekyll-gh]:              https://github.com/jekyll/jekyll
+[grpc-kotlin-helloworld]: https://github.com/kauphylover/grpc-kotlin-helloworld
