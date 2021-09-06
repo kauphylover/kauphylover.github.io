@@ -2,7 +2,7 @@
 layout: post
 title:  "Here we go!"
 date:   2021-07-09 17:50:54 +0530
-categories: intro grpc kotlin
+author: Abhirama Mallela
 ---
 Starting this weekend, I've decided to dedicate some time to play with stuff that I don't get to during weekdays.
 
